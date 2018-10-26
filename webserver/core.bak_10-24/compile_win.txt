@@ -1,0 +1,1 @@
+g++ *.cpp *.o -o openplc -I ./lib -pthread -lwsock32 -lmodbus -lwinmm -fpermissive -I ../../../../../usr/local/include/modbus -w

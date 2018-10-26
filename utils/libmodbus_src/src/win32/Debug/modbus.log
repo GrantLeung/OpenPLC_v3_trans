@@ -1,0 +1,14 @@
+﻿  modbus-data.c
+  modbus-rtu.c
+  modbus-tcp.c
+..\modbus-tcp.c(340): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+..\modbus-tcp.c(518): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+..\modbus-tcp.c(671): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  modbus.c
+  Generating Code...
+     Creating library C:\Users\lianggh\OpenPLC\Runtime\home\lianggh\OpenPLC_v3\utils\libmodbus_src\src\win32\modbus.lib and object C:\Users\lianggh\OpenPLC\Runtime\home\lianggh\OpenPLC_v3\utils\libmodbus_src\src\win32\modbus.exp
+  modbus.vcxproj -> C:\Users\lianggh\OpenPLC\Runtime\home\lianggh\OpenPLC_v3\utils\libmodbus_src\src\win32\modbus.dll
+  modbus.vcxproj -> C:\Users\lianggh\OpenPLC\Runtime\home\lianggh\OpenPLC_v3\utils\libmodbus_src\src\win32\modbus.pdb (Full PDB)
